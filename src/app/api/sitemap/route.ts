@@ -1,4 +1,5 @@
-const BASE_URL = "https://mi-sitio.com"; // Cambiar al dominio real
+const BASE_URL = "https://lab14-web-herrera.vercel.app";
+
 
 export async function GET() {
   // Simular rutas dinámicas desde una base de datos
